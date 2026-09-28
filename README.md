@@ -40,7 +40,7 @@
 
 | Cart & COD Checkout Flow | Mobile Responsive UI |
 | :---: | :---: |
-| ![Cart Checkout](docs/screenshots/cart-checkout.png) | ![Mobile View](docs/screenshots/mobile-view.png) |
+| ![Cart Checkout](docs/screenshots/cart-checkout.png) | ![Mobile View](docs/screenshots/mobile-view.jpg) |
 
 ---
 

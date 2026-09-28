@@ -36,7 +36,7 @@
 ### 🛍️ Storefront & User Experience
 | Catalog & Hero Section | Detailed Product View |
 | :---: | :---: |
-| ![Hero Storefront](docs/screenshots/hero-storefront.png) | ![Product Detail](docs/screenshots/product-detail.png) |
+| ![Hero Storefront](docs/screenshots/hero-store-front.png) | ![Product Detail](docs/screenshots/product-detail.png) |
 
 | Cart & COD Checkout Flow | Mobile Responsive UI |
 | :---: | :---: |

@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+- [Visual Showcase & System Architecture](#-visual-showcase--system-architecture)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
@@ -19,6 +20,27 @@
 - [Environment Variables](#environment-variables)
 - [Security](#security)
 - [Deployment](#deployment)
+- [License](#license)
+
+---
+
+## 📸 Visual Showcase & System Architecture
+
+### 📐 System & Data Architecture
+<div align="center">
+  <img src="docs/diagram.svg" alt="Aitmaad Organics Architecture Diagram" width="100%" />
+</div>
+
+<br/>
+
+### 🛍️ Storefront & User Experience
+| Catalog & Hero Section | Detailed Product View |
+| :---: | :---: |
+| ![Hero Storefront](docs/screenshots/hero-storefront.png) | ![Product Detail](docs/screenshots/product-detail.png) |
+
+| Cart & COD Checkout Flow | Mobile Responsive UI |
+| :---: | :---: |
+| ![Cart Checkout](docs/screenshots/cart-checkout.png) | ![Mobile View](docs/screenshots/mobile-view.png) |
 
 ---
 
